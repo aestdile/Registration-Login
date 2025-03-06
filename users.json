@@ -1,0 +1,18 @@
+[
+  {
+    "FirstName": "Mukhtor",
+    "LastName": "Eshboyev",
+    "UserName": "aestdile",
+    "HashPassword": "$2a$11$EopNsLleA1.VidLaIkuFSevRVaFjhZjOsA/cH/gsqniGytgugAj7.",
+    "Email": "aestdile@gmail.com",
+    "PhoneNumber": "772672774"
+  },
+  {
+    "FirstName": "Alisa",
+    "LastName": "Ayzekson",
+    "UserName": "alice",
+    "HashPassword": "$2a$11$jdrSJNQqUStbY6vOzOC22OX5UvpvgZ6qL2Wm31xJaO3fMUzVcy8oy",
+    "Email": "alisa@gmail.com",
+    "PhoneNumber": "772662774"
+  }
+]
